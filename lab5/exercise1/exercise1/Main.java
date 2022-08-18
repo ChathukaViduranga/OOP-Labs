@@ -47,7 +47,7 @@ class ToyCat extends Cat {
 	  public ToyCat(String name, String manufacturer) {
 	     super(name);
 	     this.manufacturer = manufacturer;
-	     System.out.println("Toy cat Constructor is called");
+	     System.out.println("Toy    cat Constructor is called");
 	     
 	  }
 	  
